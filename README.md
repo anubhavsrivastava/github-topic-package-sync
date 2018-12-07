@@ -10,6 +10,13 @@ Sync Github topics with package.json file keywords
 <!-- 
 [![NPM](https://nodei.co/npm/github-topic-package-sync.png?downloads=true&stars=true)](https://nodei.co/npm/github-topic-package-sync/) -->
 
+>What is `package.json keywords`?
+
+The keywords property inside a package.json file is, a collection of keywords about a module. Keywords help people discover your package as it is listed on `npm search`.
+
+> What is `Github topics`?
+
+Helpful topics to classify a repository include the repository's intended purpose, subject area, community, or language. Additionally, GitHub analyzes public repository content and generates suggested topics that repository admins can accept or reject.
 
 ## Installation
 
