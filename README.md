@@ -16,7 +16,7 @@ The keywords property inside a package.json file is, a collection of keywords ab
 
 > What is `Github topics`?
 
-Helpful topics to classify a repository include the repository's intended purpose, subject area, community, or language. Additionally, GitHub analyzes public repository content and generates suggested topics that repository admins can accept or reject.
+Helpful topics to classify a repository include the repository's intended purpose, subject area, community, or language. Topics are labels that create subject-based connections between GitHub repositories
 
 ## Installation
 
