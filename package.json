@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/anubhavsrivastava/github-topic-package-sync.git"
   },
-  "author": "",
+  "author": {
+    "name": "Anubhav Srivastava",
+    "email": "anubhav.srivastava00@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/anubhavsrivastava/github-topic-package-sync/issues"
