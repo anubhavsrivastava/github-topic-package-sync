@@ -1,0 +1,19 @@
+{
+  "name": "github-topic-package-sync",
+  "version": "0.0.1",
+  "description": "Sync Github topics with package.json file keywords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anubhavsrivastava/github-topic-package-sync.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anubhavsrivastava/github-topic-package-sync/issues"
+  },
+  "homepage": "https://github.com/anubhavsrivastava/github-topic-package-sync#readme"
+}
