@@ -25,5 +25,8 @@
   "devDependencies": {
     "coveralls": "^3.0.2",
     "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "got": "^9.3.2"
   }
 }
