@@ -22,11 +22,6 @@
     "url": "https://github.com/anubhavsrivastava/github-topic-package-sync/issues"
   },
   "homepage": "https://github.com/anubhavsrivastava/github-topic-package-sync#readme",
-  "devDependencies": {
-    "coveralls": "^3.0.2",
-    "jest": "^23.6.0"
-  },
-  "dependencies": {
-    "got": "^9.3.2"
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
